@@ -1,0 +1,6 @@
+company_id,cluster_id,cluster_name,distance_from_centroid
+1,2,Value,0.0
+2,0,High Quality,0.0
+3,4,Dividend,0.0
+4,3,Turnaround,0.0
+5,1,Growth,0.0

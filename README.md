@@ -1,69 +1,45 @@
-# Mutual Fund Analytics Dashboard
+---
 
-## Project Overview
+# Project Status
 
-This project is a Streamlit-based Mutual Fund Analytics Dashboard developed using Python.
+## Completed Modules
 
-## Features
+- ETL Pipeline
+- Data Validation
+- Data Normalization
+- CAGR Analysis
+- Financial Ratios
+- Cash Flow Intelligence
+- Capital Allocation Report
+- KMeans Clustering
+- Cluster Statistics
+- Portfolio Statistics
+- NLP Parser
+- Pros & Cons Generator
+- PDF Tearsheet Generator
+- Batch PDF Generator
+- FastAPI REST API
+- Streamlit Dashboard
+- Automated Testing (Pytest)
+- Project Documentation
 
-- Home Dashboard
-- Company Profile
-- Fund Screener
-- Peer Comparison
-- Trends Analysis
-- Sector Analysis
-- Capital Allocation
-- Reports
-- Valuation Module
+---
 
 ## Technologies Used
 
-- Python 3.14
-- Streamlit
+- Python
 - Pandas
-- Plotly
+- NumPy
+- Scikit-learn
+- FastAPI
+- Streamlit
 - SQLite
-- OpenPyXL
+- Pytest
+- Flake8
+- ReportLab
 
-## Project Structure
-
-```
-mutualfundanalytics/
-│
-├── src/
-│   ├── analytics/
-│   ├── dashboard/
-│   └── etl/
-│
-├── outputs/
-├── notebooks/
-├── scripts/
-├── tests/
-├── README.md
-```
-
-## Run the Project
-
-Activate virtual environment:
-
-```
-venv\Scripts\activate
-```
-
-Run Streamlit:
-
-```
-streamlit run src/dashboard/app.py
-```
-
-## Outputs
-
-- valuation_summary.csv
-- fund_scorecard.csv
-- cagr_results.csv
-- sharpe_results.csv
-- drawdown_results.csv
+---
 
 ## Author
 
-Sure Venkata Srihari
+**Sure Venkata Srihari**
